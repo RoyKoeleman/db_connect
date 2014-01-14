@@ -19,8 +19,6 @@ public class AppTest
     public AppTest( String testName )
     {
         super( testName );
-
-	DatabaseHandler db = new DatabaseHandler();
     }
 
     /**
