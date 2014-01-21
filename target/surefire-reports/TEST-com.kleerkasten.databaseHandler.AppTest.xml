@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite failures="0" time="0.073" errors="0" skipped="0" tests="1" name="com.kleerkasten.databaseHandler.AppTest">
+<testsuite failures="0" time="0.04" errors="0" skipped="0" tests="1" name="com.kleerkasten.databaseHandler.AppTest">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="/var/lib/jenkins/tools/hudson.model.JDK/JDK_7/jre/lib/amd64"/>
@@ -58,5 +58,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase time="0.003" classname="com.kleerkasten.databaseHandler.AppTest" name="testApp"/>
+  <testcase time="0.006" classname="com.kleerkasten.databaseHandler.AppTest" name="testApp"/>
 </testsuite>
